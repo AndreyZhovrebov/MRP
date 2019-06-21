@@ -1,0 +1,7 @@
+E:\Новая папка\MRP\MRP\bin\Debug\MRP.exe.config
+E:\Новая папка\MRP\MRP\bin\Debug\MRP.exe
+E:\Новая папка\MRP\MRP\bin\Debug\MRP.pdb
+E:\Новая папка\MRP\MRP\obj\Debug\MRP.csprojAssemblyReference.cache
+E:\Новая папка\MRP\MRP\obj\Debug\MRP.csproj.CoreCompileInputs.cache
+E:\Новая папка\MRP\MRP\obj\Debug\MRP.exe
+E:\Новая папка\MRP\MRP\obj\Debug\MRP.pdb

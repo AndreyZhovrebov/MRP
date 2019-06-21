@@ -1,0 +1,10 @@
+E:\Новая папка\MRP\WinAppMRP\bin\Debug\WinAppMRP.exe.config
+E:\Новая папка\MRP\WinAppMRP\bin\Debug\WinAppMRP.exe
+E:\Новая папка\MRP\WinAppMRP\bin\Debug\WinAppMRP.pdb
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.csprojAssemblyReference.cache
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.MainForm.resources
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.Properties.Resources.resources
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.csproj.GenerateResource.cache
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.csproj.CoreCompileInputs.cache
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.exe
+E:\Новая папка\MRP\WinAppMRP\obj\Debug\WinAppMRP.pdb
